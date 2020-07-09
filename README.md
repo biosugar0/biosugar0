@@ -1,16 +1,33 @@
-### Hi there 👋
+# Yuto Kimura
 
-<!--
-**biosugar0/biosugar0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Language
 
-Here are some ideas to get you started:
+* Go
+* Python3
+* Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Editor
+
+* Vim
+* NeoVim
+
+## Frameworks
+
+* [Gin](https://github.com/gin-gonic/gin) <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width=15/>
+* [Echo](echo.labstack.com/) <img src="https://cdn.labstack.com/images/echo-logo.svg" width=50/>
+* [GORM](https://github.com/go-gorm/gorm)
+
+## OS
+* MacOS
+* Alpine Linux
+* Ubuntu
+* CentOS
+
+
+## Others
+
+* [kubernetes](https://github.com/kubernetes/kubernetes)
+* [Docker](https://www.docker.com/)
+* MYSQL
+* AWS
+* GCP
