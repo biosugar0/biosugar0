@@ -1,5 +1,3 @@
-# Yuto Kimura
-
 ## Language
 
 * Go
