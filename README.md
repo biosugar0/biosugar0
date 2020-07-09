@@ -11,8 +11,8 @@
 
 ## Frameworks
 
-* [Gin](https://github.com/gin-gonic/gin) <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width=15/>
-* [Echo](echo.labstack.com/) <img src="https://cdn.labstack.com/images/echo-logo.svg" width=50/>
+* [Gin](https://github.com/gin-gonic/gin)
+* [Echo](echo.labstack.com/)
 * [GORM](https://github.com/go-gorm/gorm)
 
 ## OS
