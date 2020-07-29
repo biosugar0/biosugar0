@@ -1,33 +1,6 @@
-## Language
-
-* Go
-* Python3
-* Bash
-
-## Editor
-
-* Vim
-* NeoVim
-
-## Frameworks
-
-* [Gin](https://github.com/gin-gonic/gin)
-* [Echo](echo.labstack.com/)
-* [GORM](https://github.com/go-gorm/gorm)
-
-## OS
-* MacOS
-* Alpine Linux
-* Ubuntu
-* CentOS
-
-
-## Others
-
-* [kubernetes](https://github.com/kubernetes/kubernetes)
-* [Docker](https://www.docker.com/)
-* MYSQL
-* AWS
-* GCP
-* MicroServices
-* pub/sub
+<a href="https://github.com/biosugar0/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=biosugar0&count_private=true&show_icons=true&theme=blue-green" />
+</a>
+<a href="https://github.com/biosugar0/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biosugar0&count_private=true&hide=java,html&theme=blue-green" />
+</a>
