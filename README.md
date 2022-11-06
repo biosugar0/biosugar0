@@ -1,3 +1,6 @@
+# Link
+- [職務経歴](https://github.com/biosugar0/curriculum-vitae)
+- [Blog](https://www.biosugar0.com/)
 # Stats
 <p align="left">
   <a href="http://twitter.com/biosugar0">
@@ -13,6 +16,3 @@
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=biosugar0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-# Link
-- [職務経歴](https://github.com/biosugar0/curriculum-vitae)
