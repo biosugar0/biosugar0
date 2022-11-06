@@ -13,4 +13,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=biosugar0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[職務経歴](https://github.com/biosugar0/curriculum-vitae)
+- [職務経歴](https://github.com/biosugar0/curriculum-vitae)
